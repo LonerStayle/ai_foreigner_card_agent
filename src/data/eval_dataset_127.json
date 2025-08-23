@@ -1,0 +1,3023 @@
+{
+  "generated_at": "2025-08-23T05:26:11.359855Z",
+  "count": 127,
+  "EVAL_QUESTIONS": [
+    "How can I extend my student (D-2) visa?",
+    "How do I apply for an Alien Registration Card (ARC)?",
+    "I lost my ARC. How can I replace it?",
+    "How do I report a change of address?",
+    "How can I change my visa status from D-4 to D-2?",
+    "How do I change my visa status from D-2 to E-7 after graduation?",
+    "How can I get a re-entry permit?",
+    "How do I report school transfer for D-2 visa?",
+    "How do I report a leave of absence from university (D-2)?",
+    "How can I get permission for part‑time work on D-2/D-4?",
+    "How do I update my new passport number with immigration?",
+    "How can I book an immigration appointment on HiKorea?",
+    "How do I check my immigration application status?",
+    "What should I do to invite a family member to Korea?",
+    "How do I extend my sojourn period after graduation?",
+    "How can I change my employer on an E‑series visa?",
+    "How can I receive my ARC after approval?",
+    "How do I cancel or reschedule my HiKorea appointment?",
+    "Where is my local immigration office and hours?",
+    "How do I print or save my e‑Visa grant notice?",
+    "How can I correct a mistake in my application?",
+    "What documents do I need for ARC renewal?",
+    "How do I update my phone/email with immigration?",
+    "How can I change my residence status due to new admission or employment?",
+    "How do I report a change in study major or program?",
+    "What is the general process to extend a D‑4 (Korean language trainee) visa?",
+    "How can I add a dependent to my visa status?",
+    "How do I replace a damaged passport information on ARC?",
+    "How can I request a certificate or document related to my stay?",
+    "How do I handle overstay concerns?",
+    "How to confirm part‑time work hour limits for students?",
+    "How can I update my school enrollment proof for extension?",
+    "How to verify required fees and payment methods?",
+    "How do I request English service or translation help?",
+    "How can I check processing times?",
+    "How to prepare photos that meet requirements?",
+    "What should I bring to my appointment?",
+    "How do I handle name changes after passport renewal?",
+    "How to request a receipt or proof of application?",
+    "How can I correct my registered address on ARC?",
+    "How to prepare for immigration interview if required?",
+    "How do I withdraw an application?",
+    "How to request a change in appointment location?",
+    "How can I get official forms and templates?",
+    "How do I prepare a letter of explanation?",
+    "How do I handle change of contact person at school/company?",
+    "How can I request guidance for special cases?",
+    "How to recharge a T-money card?",
+    "How to check T‑money balance?",
+    "How to get a T‑money card?",
+    "How to get a refund for remaining T‑money balance?",
+    "Can I use T‑money on buses and subways in Seoul?",
+    "How to set up T‑money for tourists?",
+    "How to replace a lost T‑money card?",
+    "Does T‑money work for airport buses?",
+    "How to use T‑money on intercity buses?",
+    "How to auto‑recharge T‑money?",
+    "Can I pay small purchases with T‑money?",
+    "How to check last transactions on T‑money?",
+    "How to use T‑money on Seoul public bikes?",
+    "How to buy a T‑money card at the airport?",
+    "How to transfer between bus and subway with T‑money?",
+    "How to solve T‑money card read errors?",
+    "Can I use T‑money in other cities?",
+    "How to set up a mobile T‑money app/card?",
+    "How to protect T‑money card from damage?",
+    "How to identify T‑money acceptance?",
+    "How to buy a prepaid SIM in Korea?",
+    "How to activate a prepaid SIM?",
+    "How to top up mobile data or voice balance?",
+    "Can I use eSIM in Korea?",
+    "How to check my phone number after activation?",
+    "How to switch from prepaid to postpaid?",
+    "How to get a short‑term tourist data plan?",
+    "How to keep my number when changing carriers?",
+    "How to troubleshoot no‑service after SIM install?",
+    "How to get a multi‑language customer service?",
+    "How to buy a data‑only SIM?",
+    "How to suspend service temporarily?",
+    "How to check remaining data balance?",
+    "How to enable international roaming?",
+    "How to get a SIM at the airport late at night?",
+    "How to transfer eSIM to a new phone?",
+    "How to get a student discount plan?",
+    "How to set APN on Android/iOS in Korea?",
+    "How to cancel a mobile plan?",
+    "How to buy a SIM for visitors staying one month?",
+    "What documents are required to open a bank account in Korea?",
+    "How to open a basic savings account as a foreigner?",
+    "How to receive salary into a Korean bank account?",
+    "How to set up online banking?",
+    "How to remit money overseas from Korea?",
+    "How to receive money from abroad?",
+    "How to get a debit card with my account?",
+    "How to update address/phone on my bank account?",
+    "How to close a bank account?",
+    "How to get a bank statement in English?",
+    "How to set up automatic bill payments?",
+    "How to link my bank to mobile payment apps?",
+    "How to open an account without ARC (short stay)?",
+    "How to get a certificate of deposit balance for visa matters?",
+    "How to change my account’s preferred language?",
+    "How to dispute an unauthorized transaction?",
+    "How to open a student account with lower fees?",
+    "How to set daily transfer limits?",
+    "How to receive SMS notifications on transactions?",
+    "How to verify bank business hours and required documents?",
+    "How to dispose household waste in Seoul?",
+    "How to register for National Health Insurance as a student/worker?",
+    "What to do in medical emergencies in Seoul?",
+    "How to find foreigner support centers in Seoul?",
+    "How to register for public services after moving in Seoul?",
+    "How to get official multilingual guides for living in Seoul?",
+    "How to use public Wi‑Fi in Seoul?",
+    "How to find community language classes?",
+    "How to report lost items in the subway?",
+    "How to get child care information as a foreign resident?",
+    "How to find rental housing information in Seoul?",
+    "How to register for libraries and borrow books?",
+    "How to pay utilities (gas/water/electricity)?",
+    "How to find vaccination or health check programs?",
+    "How to register for community sports facilities?",
+    "How to get official tourist maps and guides?",
+    "How to find recycling centers in Seoul?",
+    "How to enroll in Korean language programs offered by the city?",
+    "How to find legal counseling for foreigners?",
+    "How to get public transportation fare info for Seoul?"
+  ],
+  "GT_MAP": {
+    "How can I extend my student (D-2) visa?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Application",
+          "en": "Apply at the immigration office with your passport and enrollment certificate.",
+          "ko": "여권과 재학증명서를 지참하여 출입국관리사무소에서 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I apply for an Alien Registration Card (ARC)?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Application",
+          "en": "Book an appointment on HiKorea and visit the immigration office with required documents.",
+          "ko": "하이코리아에서 예약 후 필요한 서류를 지참해 출입국관리사무소에 방문하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "I lost my ARC. How can I replace it?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reissue",
+          "en": "Report the loss and apply for a reissuance at the immigration office.",
+          "ko": "분실 신고 후 출입국관리사무소에서 재발급을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I report a change of address?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Report",
+          "en": "Report your new address to the immigration office within the required period.",
+          "ko": "주소 변경 시 정해진 기간 내에 출입국관리사무소에 신고하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I change my visa status from D-4 to D-2?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Status Change",
+          "en": "Apply for status change at the immigration office with school admission documents.",
+          "ko": "입학 관련 서류를 준비해 출입국관리사무소에서 체류자격 변경을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I change my visa status from D-2 to E-7 after graduation?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Status Change",
+          "en": "Submit a status change application with employment documents and qualifications.",
+          "ko": "취업 서류와 자격 요건을 갖춰 체류자격 변경을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I get a re-entry permit?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Re-entry Permit",
+          "en": "Apply for a re-entry permit before leaving Korea if required for your status.",
+          "ko": "필요한 경우 출국 전 재입국허가를 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I report school transfer for D-2 visa?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Report",
+          "en": "Report the school transfer and update your records at immigration.",
+          "ko": "전과 또는 전학 시 출입국에 신고하고 기록을 갱신하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I report a leave of absence from university (D-2)?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Report",
+          "en": "Submit a leave report through immigration with proof from your university.",
+          "ko": "대학의 증빙서류와 함께 출입국에 휴학 사실을 신고하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I get permission for part‑time work on D-2/D-4?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Work Permission",
+          "en": "Apply for part-time work permission and follow any hour limits.",
+          "ko": "시간제 취업허가를 신청하고 시간 제한을 준수하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I update my new passport number with immigration?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Update",
+          "en": "Report your new passport information to the immigration office.",
+          "ko": "새 여권 정보를 출입국에 신고하여 갱신하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I book an immigration appointment on HiKorea?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reservation",
+          "en": "Sign up, log in to HiKorea, and use the online reservation service.",
+          "ko": "하이코리아에서 회원가입·로그인 후 온라인 예약 서비스를 이용하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I check my immigration application status?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Status Check",
+          "en": "Use HiKorea’s online inquiry with your application details.",
+          "ko": "하이코리아의 온라인 조회로 신청 진행 상태를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "What should I do to invite a family member to Korea?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Invitation",
+          "en": "Prepare required invitation documents and follow visa application guidance.",
+          "ko": "초청에 필요한 서류를 준비하고 비자 신청 안내를 따르세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I extend my sojourn period after graduation?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Extension",
+          "en": "Review available options (e.g., job seeking) and apply for extension or status change.",
+          "ko": "가능한 옵션(예: 구직)을 확인하고 체류기간 연장 또는 자격 변경을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I change my employer on an E‑series visa?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Employer Change",
+          "en": "Report the change and apply for necessary permission or update.",
+          "ko": "변경 사실을 신고하고 필요한 허가 또는 갱신을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I receive my ARC after approval?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pickup",
+          "en": "Follow pickup guidance from immigration or designated delivery procedure.",
+          "ko": "출입국의 수령 안내 또는 지정된 수령 절차를 따르세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I cancel or reschedule my HiKorea appointment?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reservation",
+          "en": "Use your reservation details on HiKorea to cancel or change the time.",
+          "ko": "하이코리아 예약 정보에서 취소 또는 일정을 변경하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "Where is my local immigration office and hours?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Info",
+          "en": "Check the office location and hours via HiKorea’s information pages.",
+          "ko": "하이코리아 정보 페이지에서 관할 사무소 위치와 운영 시간을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I print or save my e‑Visa grant notice?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "e‑Visa",
+          "en": "Access the Korea Visa Portal to view and print your e‑Visa notice.",
+          "ko": "비자포털에서 전자비자 발급 안내문을 조회·출력하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I correct a mistake in my application?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Correction",
+          "en": "Contact 1345 or visit immigration with supporting documents to request correction.",
+          "ko": "1345에 문의하거나 증빙서류를 지참해 출입국을 방문하여 정정을 요청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "What documents do I need for ARC renewal?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Documents",
+          "en": "Prepare passport, photo, and proof of stay status; check exact list on HiKorea.",
+          "ko": "여권, 사진, 체류자격 증빙을 준비하고, 정확한 목록은 하이코리아에서 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I update my phone/email with immigration?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Update",
+          "en": "Use online services or visit the office to update your contact information.",
+          "ko": "온라인 서비스 또는 방문을 통해 연락처 정보를 갱신하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I change my residence status due to new admission or employment?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Status Change",
+          "en": "Apply for a status change with the new admission or employment proof.",
+          "ko": "입학 또는 취업 증빙과 함께 체류자격 변경을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I report a change in study major or program?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Report",
+          "en": "Notify immigration if your study plan significantly changes as required.",
+          "ko": "학업 계획이 크게 변경될 경우 필요 시 출입국에 신고하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "What is the general process to extend a D‑4 (Korean language trainee) visa?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Extension",
+          "en": "Prepare school documents and apply for extension before your stay expires.",
+          "ko": "학교 서류를 준비해 체류기간 만료 전에 연장을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I add a dependent to my visa status?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Dependent",
+          "en": "Check eligibility and submit required family documents through immigration.",
+          "ko": "자격 요건을 확인하고 필요한 가족 서류를 출입국에 제출하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I replace a damaged passport information on ARC?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Update",
+          "en": "Update ARC details with your new passport information at immigration.",
+          "ko": "새 여권 정보로 ARC 정보를 출입국에서 갱신하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I request a certificate or document related to my stay?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Certificate",
+          "en": "Use HiKorea or visit the office to request the needed certificate.",
+          "ko": "하이코리아 또는 방문을 통해 필요한 증명서를 발급 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I handle overstay concerns?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Guidance",
+          "en": "Contact 1345 promptly for guidance and visit immigration to resolve status.",
+          "ko": "즉시 1345에 문의하고 출입국을 방문해 체류 문제를 해결하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How to confirm part‑time work hour limits for students?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Work Hours",
+          "en": "Check official guidance and your permit conditions via HiKorea or 1345.",
+          "ko": "하이코리아·1345를 통해 공식 안내와 허가 조건을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I update my school enrollment proof for extension?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Documents",
+          "en": "Obtain an updated certificate from your school and submit with your application.",
+          "ko": "학교에서 최신 재학증명서를 발급받아 신청서와 함께 제출하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How to verify required fees and payment methods?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fees",
+          "en": "Check current fees and payment instructions on HiKorea or at the office.",
+          "ko": "하이코리아 또는 출입국 창구에서 최신 수수료와 납부 방법을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I request English service or translation help?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Assistance",
+          "en": "Call 1345 for multilingual assistance and guidance.",
+          "ko": "다국어 지원을 위해 1345에 문의하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I check processing times?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Timeline",
+          "en": "Refer to HiKorea notices or ask 1345 for estimated timelines.",
+          "ko": "하이코리아 공지 또는 1345에 문의하여 처리 예상 기간을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How to prepare photos that meet requirements?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Photo Spec",
+          "en": "Follow immigration photo specifications listed on official guidance.",
+          "ko": "공식 안내의 사진 규격을 확인하고 준비하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "What should I bring to my appointment?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Checklist",
+          "en": "Bring your passport, ARC (if any), forms, and supporting documents.",
+          "ko": "여권, ARC(있는 경우), 신청서, 증빙서류를 지참하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I handle name changes after passport renewal?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Update",
+          "en": "Update your records at immigration with the new passport details.",
+          "ko": "새 여권 정보를 반영해 출입국 기록을 갱신하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How to request a receipt or proof of application?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Receipt",
+          "en": "Ask for a receipt at submission or check e‑receipt via HiKorea if available.",
+          "ko": "제출 시 영수증을 요청하거나, 가능하면 하이코리아에서 전자 영수증을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I correct my registered address on ARC?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Correction",
+          "en": "Submit an address correction request with proof of residence.",
+          "ko": "거주지 증빙과 함께 주소 정정 신청을 하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How to prepare for immigration interview if required?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interview",
+          "en": "Bring accurate documents and answer consistently with your application.",
+          "ko": "정확한 서류를 준비하고 신청 내용과 일치되게 답변하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I withdraw an application?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Withdrawal",
+          "en": "Contact 1345 or visit the office to request withdrawal procedures.",
+          "ko": "1345에 문의하거나 방문하여 철회 절차를 진행하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How to request a change in appointment location?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reservation",
+          "en": "Use HiKorea or call 1345 to inquire about location changes.",
+          "ko": "하이코리아 또는 1345에 문의하여 장소 변경 가능 여부를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I get official forms and templates?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Forms",
+          "en": "Download forms from HiKorea or obtain them at the office.",
+          "ko": "하이코리아에서 양식을 다운로드하거나 창구에서 받으세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I prepare a letter of explanation?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Explanation",
+          "en": "Write a concise statement of facts and attach supporting documents.",
+          "ko": "사실관계를 간결히 기재하고 증빙서류를 첨부하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How do I handle change of contact person at school/company?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Update",
+          "en": "Update contact details with immigration if required for your case.",
+          "ko": "사안에 따라 필요한 경우 출입국에 담당자 변경을 갱신하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How can I request guidance for special cases?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Guidance",
+          "en": "Call 1345 for case-specific instructions before you apply.",
+          "ko": "신청 전 1345에 문의하여 사례별 안내를 받으세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        },
+        {
+          "name": "Korea Visa Portal",
+          "url": "https://www.visa.go.kr"
+        }
+      ]
+    },
+    "How to recharge a T-money card?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recharge",
+          "en": "Recharge at convenience stores, subway stations, or ticket machines.",
+          "ko": "편의점, 지하철역, 발매기에서 충전할 수 있습니다."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to check T‑money balance?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Balance",
+          "en": "Tap at a reader or ask at convenience stores to view balance.",
+          "ko": "리더기에 태그하거나 편의점에서 잔액 확인을 요청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to get a T‑money card?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Purchase",
+          "en": "Purchase at convenience stores or subway station booths.",
+          "ko": "편의점이나 지하철 역사 매장에서 구매하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to get a refund for remaining T‑money balance?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Refund",
+          "en": "Ask at designated stores or service desks for refund guidance.",
+          "ko": "지정된 매장 또는 안내 데스크에서 환불 안내를 받으세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "Can I use T‑money on buses and subways in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Usage",
+          "en": "Yes, T‑money is widely accepted on buses and subways.",
+          "ko": "네, T-money는 버스와 지하철에서 널리 사용됩니다."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to set up T‑money for tourists?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tourist Setup",
+          "en": "Buy a card and top up at stations or convenience stores.",
+          "ko": "카드를 구매하고 역사나 편의점에서 충전하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to replace a lost T‑money card?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lost Card",
+          "en": "If registered, contact T‑money support; otherwise buy a new card.",
+          "ko": "등록 카드라면 고객센터에 문의하고, 아니면 새로 구매하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "Does T‑money work for airport buses?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Airport Bus",
+          "en": "Check route acceptance; many airport buses accept T‑money.",
+          "ko": "노선별 이용 가능 여부를 확인하세요. 많은 공항버스가 T-money를 지원합니다."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to use T‑money on intercity buses?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Intercity Bus",
+          "en": "Check local availability; usage varies by region.",
+          "ko": "지역별로 이용 가능 여부가 다르니 현지 안내를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to auto‑recharge T‑money?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Auto‑recharge",
+          "en": "Use available services or recharge manually at stations/stores.",
+          "ko": "지원 서비스가 있으면 이용하고, 아니면 역사/편의점에서 수동 충전하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "Can I pay small purchases with T‑money?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Retail",
+          "en": "Some stores accept T‑money for small payments; check the logo.",
+          "ko": "일부 매장에서 소액 결제가 가능하며, 로고 표기를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to check last transactions on T‑money?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Transactions",
+          "en": "Ask at service desks or use supported kiosks if available.",
+          "ko": "안내 데스크나 지원되는 키오스크에서 조회하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to use T‑money on Seoul public bikes?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Compatibility",
+          "en": "Check current compatibility on official guidance.",
+          "ko": "공식 안내에서 최신 호환 여부를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to buy a T‑money card at the airport?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Airport Purchase",
+          "en": "Look for convenience stores or transport info desks in terminals.",
+          "ko": "터미널 내 편의점 또는 교통 안내 데스크를 이용하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to transfer between bus and subway with T‑money?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Transfer",
+          "en": "Tap in/out properly; transfer discounts apply when eligible.",
+          "ko": "정상적으로 태그하면 환승 할인 혜택을 받을 수 있습니다."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to solve T‑money card read errors?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Troubleshoot",
+          "en": "Try another reader or ask a station staff for assistance.",
+          "ko": "다른 리더기를 사용하거나 역사 직원에게 도움을 요청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "Can I use T‑money in other cities?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Coverage",
+          "en": "T‑money works in many regions; check local coverage.",
+          "ko": "여러 지역에서 사용 가능하니 지역별 이용 가능 여부를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to set up a mobile T‑money app/card?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Mobile Setup",
+          "en": "Follow app instructions and link a payment or top‑up method.",
+          "ko": "앱 안내에 따라 결제 또는 충전 수단을 연결하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to protect T‑money card from damage?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Care",
+          "en": "Keep it away from heat and bending; use a case if possible.",
+          "ko": "열과 구부림을 피하고, 가능하면 카드 케이스를 사용하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to identify T‑money acceptance?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acceptance",
+          "en": "Look for the T‑money logo at stores or gates.",
+          "ko": "매장이나 개찰구에서 T-money 로고 표시를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "T-money Official",
+          "url": "https://www.t-money.co.kr"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        }
+      ]
+    },
+    "How to buy a prepaid SIM in Korea?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Purchase",
+          "en": "Bring your passport and purchase a prepaid SIM from authorized carriers.",
+          "ko": "여권을 지참하고 통신사 매장에서 선불 유심을 구매하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to activate a prepaid SIM?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Activation",
+          "en": "Follow carrier instructions for activation after inserting the SIM.",
+          "ko": "유심 장착 후 통신사의 안내에 따라 개통하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to top up mobile data or voice balance?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Top‑up",
+          "en": "Use carrier apps, websites, or visit stores to recharge.",
+          "ko": "통신사 앱/웹 또는 매장을 통해 충전하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "Can I use eSIM in Korea?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "eSIM",
+          "en": "Check device compatibility and buy an eSIM plan from carriers.",
+          "ko": "단말 호환을 확인한 뒤 통신사에서 eSIM 요금제를 구매하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to check my phone number after activation?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Check Number",
+          "en": "Use carrier app or dial code per carrier instructions.",
+          "ko": "통신사 앱 또는 안내된 다이얼 코드를 이용하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to switch from prepaid to postpaid?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plan Change",
+          "en": "Visit a carrier store with ID and payment method to change plan.",
+          "ko": "신분증과 결제수단을 지참해 통신사 매장에서 요금제 변경을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to get a short‑term tourist data plan?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tourist Plan",
+          "en": "Purchase a tourist plan online or at the airport carrier counters.",
+          "ko": "공항 또는 온라인에서 관광객용 데이터 요금제를 구매하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to keep my number when changing carriers?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Portability",
+          "en": "Request number portability following carrier procedures.",
+          "ko": "통신사 절차에 따라 번호이동을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to troubleshoot no‑service after SIM install?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Troubleshoot",
+          "en": "Restart phone, check APN settings, or visit a carrier store.",
+          "ko": "폰 재시작, APN 설정 확인, 필요 시 매장 방문하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to get a multi‑language customer service?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Support",
+          "en": "Use global support lines or ask for English service at carrier stores.",
+          "ko": "글로벌 고객센터 또는 매장에서 영어 지원을 요청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to buy a data‑only SIM?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Data‑only",
+          "en": "Ask carriers for data‑only plans suitable for tablets or hotspots.",
+          "ko": "태블릿/핫스팟용 데이터 전용 요금제를 문의하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to suspend service temporarily?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suspend",
+          "en": "Request a temporary suspension via app or at a store if offered.",
+          "ko": "앱 또는 매장에서 일시정지를 신청하세요(제공 시)."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to check remaining data balance?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Balance",
+          "en": "Check the carrier app or website account page.",
+          "ko": "통신사 앱 또는 웹사이트의 내 계정에서 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to enable international roaming?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Roaming",
+          "en": "Turn on roaming in settings and buy a roaming plan if needed.",
+          "ko": "설정에서 로밍을 켜고 필요 시 로밍 요금제를 구매하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to get a SIM at the airport late at night?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Airport",
+          "en": "Check carrier counter hours; some have vending machines or kiosks.",
+          "ko": "공항 매장 운영 시간을 확인하고, 무인 자판기/키오스크 이용을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to transfer eSIM to a new phone?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "eSIM Transfer",
+          "en": "Request eSIM reissue or follow transfer steps from the carrier.",
+          "ko": "통신사 안내에 따라 eSIM 재발급/이전을 진행하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to get a student discount plan?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Discount",
+          "en": "Ask carriers about eligibility and required student proof.",
+          "ko": "통신사에 대상 여부와 학생 증빙서류를 문의하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to set APN on Android/iOS in Korea?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "APN",
+          "en": "Follow carrier‑specific APN settings from official guides.",
+          "ko": "공식 안내의 통신사별 APN 설정을 따르세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to cancel a mobile plan?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cancel",
+          "en": "Visit a store with ID or use official channels to cancel.",
+          "ko": "신분증 지참 후 매장을 방문하거나 공식 채널로 해지하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "How to buy a SIM for visitors staying one month?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "One‑month Plan",
+          "en": "Choose a 30‑day plan and register with your passport as required.",
+          "ko": "30일 요금제를 선택하고 여권으로 등록하세요(필요 시)."
+        }
+      ],
+      "references": [
+        {
+          "name": "KT Roaming",
+          "url": "https://roaming.kt.com"
+        },
+        {
+          "name": "LG U+ Global",
+          "url": "https://mglobal.lguplus.com"
+        }
+      ]
+    },
+    "What documents are required to open a bank account in Korea?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Documents",
+          "en": "Bring your passport, Alien Registration Card, and proof of enrollment or employment.",
+          "ko": "여권, 외국인등록증, 재학 또는 재직 증명서를 지참하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to open a basic savings account as a foreigner?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Open Account",
+          "en": "Visit a bank with required ID and complete the verification process.",
+          "ko": "필요한 신분증을 지참해 은행을 방문하여 본인확인을 완료하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to receive salary into a Korean bank account?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Salary",
+          "en": "Provide your account number and bank details to your employer.",
+          "ko": "회사에 계좌번호와 은행 정보를 제출하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to set up online banking?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Online Banking",
+          "en": "Register for online/mobile banking at the branch or via official app.",
+          "ko": "지점 또는 공식 앱에서 인터넷/모바일뱅킹을 등록하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to remit money overseas from Korea?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remittance",
+          "en": "Use bank remittance services with ID and recipient details.",
+          "ko": "신분증과 수취인 정보를 준비해 해외송금을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to receive money from abroad?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inbound Remit",
+          "en": "Provide your bank’s SWIFT code and account info to the sender.",
+          "ko": "송금인에게 은행 SWIFT 코드와 계좌 정보를 전달하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to get a debit card with my account?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Debit Card",
+          "en": "Request a debit/check card when opening the account or later at the branch.",
+          "ko": "계좌 개설 시 또는 이후 지점에서 체크카드를 발급받으세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to update address/phone on my bank account?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Update",
+          "en": "Visit a branch with ID or use official online channels if available.",
+          "ko": "신분증을 지참해 지점을 방문하거나 온라인 채널을 이용하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to close a bank account?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Close Account",
+          "en": "Withdraw remaining funds and request account closure at the branch.",
+          "ko": "잔액을 인출하고 지점에서 계좌 해지를 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to get a bank statement in English?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Statement",
+          "en": "Ask the bank for an English statement or certificate of transactions.",
+          "ko": "영문 거래내역서 또는 잔고증명을 요청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to set up automatic bill payments?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Auto‑debit",
+          "en": "Enroll in auto‑debit services through your bank or biller.",
+          "ko": "은행 또는 청구기관을 통해 자동이체를 등록하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to link my bank to mobile payment apps?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Mobile Pay",
+          "en": "Use the app’s add‑bank feature and verify per instructions.",
+          "ko": "앱의 은행 연결 기능을 이용해 안내에 따라 인증하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to open an account without ARC (short stay)?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Short Stay",
+          "en": "Check banks that offer limited services with passport only.",
+          "ko": "여권만으로 제한적 서비스를 제공하는 은행 여부를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to get a certificate of deposit balance for visa matters?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Certificate",
+          "en": "Request a balance certificate at the bank for submission to authorities.",
+          "ko": "비자 용도로 사용할 잔고증명서를 은행에서 발급받으세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to change my account’s preferred language?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Language",
+          "en": "Ask the bank to set English notifications or statements if supported.",
+          "ko": "지원 시 은행에 영어 알림/명세서 설정을 요청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to dispute an unauthorized transaction?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Dispute",
+          "en": "Report to the bank immediately and follow the claim process.",
+          "ko": "즉시 은행에 신고하고 이의 제기 절차를 따르세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to open a student account with lower fees?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Student Account",
+          "en": "Ask about student products and bring proof of enrollment.",
+          "ko": "학생 전용 상품을 문의하고 재학증명서를 지참하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to set daily transfer limits?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Limits",
+          "en": "Adjust limits via app or at the branch after identity verification.",
+          "ko": "본인확인 후 앱 또는 지점에서 이체 한도를 조정하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to receive SMS notifications on transactions?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Alerts",
+          "en": "Enable transaction alerts in your banking app settings.",
+          "ko": "모바일뱅킹 앱 설정에서 거래 알림을 활성화하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to verify bank business hours and required documents?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Info",
+          "en": "Check official bank notices or ask at the branch in advance.",
+          "ko": "공식 안내 또는 지점 문의로 운영시간과 필요서류를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "InvestKOREA",
+          "url": "https://www.investkorea.org"
+        },
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        }
+      ]
+    },
+    "How to dispose household waste in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Waste",
+          "en": "Follow local sorting rules and use designated bags for general waste.",
+          "ko": "지역 분리 배출 규정을 준수하고 지정 봉투를 사용하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to register for National Health Insurance as a student/worker?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "NHIS Enrollment",
+          "en": "Check eligibility and enroll through official guidance or your institution.",
+          "ko": "자격 요건을 확인하고 기관 안내에 따라 가입하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "What to do in medical emergencies in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Emergency",
+          "en": "Call emergency number and visit the nearest emergency room.",
+          "ko": "응급 상황에서는 긴급전화로 연락하고 인근 응급실을 방문하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to find foreigner support centers in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Support Centers",
+          "en": "Use Seoul’s official information pages to locate support centers.",
+          "ko": "서울시 공식 정보 페이지에서 지원센터 위치를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to register for public services after moving in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Registration",
+          "en": "Check district office guidance and complete required registrations.",
+          "ko": "구청 안내에 따라 필요한 등록 절차를 완료하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to get official multilingual guides for living in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Guide",
+          "en": "Download the latest Living in Seoul guide from the official site.",
+          "ko": "서울시 공식 사이트에서 최신 영문 생활 가이드를 다운로드하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to use public Wi‑Fi in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Public Wi‑Fi",
+          "en": "Search for city Wi‑Fi networks and follow portal instructions.",
+          "ko": "도시 무선망을 검색하고 포털 안내를 따르세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to find community language classes?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Language Classes",
+          "en": "Check city programs or university/community centers for classes.",
+          "ko": "시 프로그램 또는 대학/커뮤니티 센터의 강좌를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to report lost items in the subway?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lost & Found",
+          "en": "Contact the line’s lost‑and‑found center or station office.",
+          "ko": "해당 노선 유실물 센터 또는 역무실에 문의하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to get child care information as a foreign resident?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Childcare",
+          "en": "Refer to Seoul’s family and childcare service pages.",
+          "ko": "서울시 가족·보육 서비스 안내를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to find rental housing information in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Housing",
+          "en": "Use official housing guidance and be cautious of scams.",
+          "ko": "공식 주거 안내를 확인하고 사기 예방에 유의하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to register for libraries and borrow books?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Library",
+          "en": "Register with your ID at public libraries and follow lending rules.",
+          "ko": "공공도서관에서 신분증으로 회원가입 후 대출 규정을 따르세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to pay utilities (gas/water/electricity)?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Utilities",
+          "en": "Use bank transfers, apps, or convenience store payments.",
+          "ko": "은행 이체, 앱, 편의점 납부 등을 이용하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to find vaccination or health check programs?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Health Programs",
+          "en": "Check official health center announcements for schedules.",
+          "ko": "보건소 공식 안내에서 일정을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to register for community sports facilities?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Sports Facilities",
+          "en": "Apply through district websites or centers for memberships.",
+          "ko": "구청 웹사이트 또는 센터를 통해 회원 등록을 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to get official tourist maps and guides?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tourist Info",
+          "en": "Download from official sites or visit information centers.",
+          "ko": "공식 사이트에서 다운로드하거나 안내 센터를 방문하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to find recycling centers in Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recycling",
+          "en": "Refer to district pages for locations and accepted items.",
+          "ko": "구청 페이지에서 위치와 수거 품목을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to enroll in Korean language programs offered by the city?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Korean Programs",
+          "en": "Search the official portals for Korean language programs and apply.",
+          "ko": "공식 포털에서 한국어 프로그램을 검색하고 신청하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to find legal counseling for foreigners?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Legal Help",
+          "en": "Check official support services that offer legal counseling.",
+          "ko": "외국인 대상 법률 상담을 제공하는 공식 지원 서비스를 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    },
+    "How to get public transportation fare info for Seoul?": {
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fares",
+          "en": "Consult the city guide and T‑money pages for fare basics.",
+          "ko": "도시 가이드와 T-money 페이지에서 기본 요금을 확인하세요."
+        }
+      ],
+      "references": [
+        {
+          "name": "Seoul Official – Living in Seoul 2024",
+          "url": "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+        },
+        {
+          "name": "HiKorea",
+          "url": "https://www.hikorea.go.kr"
+        },
+        {
+          "name": "1345 Call Center",
+          "url": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+sources:
+  - name: "HiKorea Main"
+    url: "https://www.hikorea.go.kr/Main.pt?locale=en"
+    file: "hikorea_main_en.pdf"
+    type: "pdf"
+    lang: "en"
+
+  - name: "HiKorea Reservation"
+    url: "https://www.hikorea.go.kr/resv/ResvIntroR.pt?locale=EN"
+    file: "hikorea_reserve_en.pdf"
+    type: "pdf"
+    lang: "en"
+
+  - name: "Immigration 1345"
+    url: "https://www.immigration.go.kr/immigration_eng/1862/subview.do"
+    file: "immigration_1345_en.pdf"
+    type: "pdf"
+    lang: "en"
+
+  - name: "Living in Seoul 2024"
+    url: "https://english.seoul.go.kr/wp-content/uploads/2022/07/2024_Living_in_Seoul.pdf"
+    file: "2024_Living_in_Seoul.pdf"
+    type: "pdf"
+    lang: "en"
+    year: 2024
+
+  - name: "Open Bank Account in Korea (InvestKOREA 2024-08)"
+    url: "https://www.investkorea.org/file/ik-en/How%20Foreigners%20Can%20Open%20a%20Bank%20Account%20in%20Korea.pdf"
+    file: "open_bank_account_korea_2024_en.pdf"
+    type: "pdf"
+    lang: "en"
+    year: 2024
+
+  - name: "T-money Foreigner Guide"
+    url: "https://www.t-money.co.kr/ncs/pct/ugd/ReadFrgnGd.dev"
+    file: "tmoney_foreigner_guide_en.pdf"
+    type: "pdf"
+    lang: "en"
+
+  - name: "KT SIM Guide"
+    url: "https://roaming.kt.com/ib/eng/cts/sim_guide.asp"
+    file: "kt_sim_guide_en.pdf"
+    type: "pdf"
+    lang: "en"
+
+  - name: "LG U+ Global"
+    url: "https://mglobal.lguplus.com/"
+    file: "lguplus_global_home_en.pdf"
+    type: "pdf"
+    lang: "en"
+
+  - name: "Korea Visa Portal"
+    url: "https://www.visa.go.kr/?LANG_TYPE=EN"
+    file: "korea_visa_portal_en.pdf"
+    type: "pdf"
+    lang: "en"
