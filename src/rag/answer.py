@@ -1,14 +1,18 @@
 from langchain_openai import ChatOpenAI
 from .retriever import hybrid_search
 from .reranker import rerank
+import os
+llm = ChatOpenAI(
+    model="gpt-4o-mini",
+    temperature=0
+)
 
-llm = ChatOpenAI(model = 'gpt-4o-mini', temperature=0)
 
-def generate_answer(query:str):
-    candidates = hybrid_search(query, top_k = 50)
-    top_docs = rerank(query,candidates)
-    context = '\n\n'.join(d['text'] for d in top_docs)
-    
+def generate_answer(query: str):
+    candidates = hybrid_search(query, top_k=50)
+    top_docs = rerank(query, candidates)
+    context = "\n\n".join(d["text"] for d in top_docs)
+
     prompt = f"""
     You are a Korean immigration & living guide assistant.
     
@@ -35,8 +39,6 @@ def generate_answer(query:str):
       ]
     }}
     """
-    
+
     answer = llm.invoke(prompt)
     return answer, top_docs
-    
-    
